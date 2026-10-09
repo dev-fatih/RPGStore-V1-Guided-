@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\rpgstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|solutionrelative:rpgstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|c:\\users\\fatih\\onedrive\\belgeler\\projelerim\\rpgstore\\rpgstore\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|solutionrelative:rpgstore\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\rpgstore\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|solutionrelative:rpgstore\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\rpgstore\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAAED19-9C6F-4457-BB74-649D331135A4}|RPGStore\\RPGStore.csproj|solutionrelative:rpgstore\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Player.cs",
+              "RelativeDocumentMoniker": "RPGStore\\Player.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Player.cs",
+              "RelativeToolTip": "RPGStore\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:48:40.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Armor.cs",
+              "RelativeDocumentMoniker": "RPGStore\\Armor.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Armor.cs",
+              "RelativeToolTip": "RPGStore\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:36:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Weapon.cs",
+              "RelativeDocumentMoniker": "RPGStore\\Weapon.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Weapon.cs",
+              "RelativeToolTip": "RPGStore\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:36:08.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Program.cs",
+              "RelativeDocumentMoniker": "RPGStore\\Program.cs",
+              "ToolTip": "C:\\Users\\fatih\\OneDrive\\Belgeler\\Projelerim\\RPGStore\\RPGStore\\Program.cs",
+              "RelativeToolTip": "RPGStore\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:33:18.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

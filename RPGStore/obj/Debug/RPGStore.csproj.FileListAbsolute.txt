@@ -1,0 +1,8 @@
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\obj\Debug\RPGStore.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\obj\Debug\RPGStore.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\bin\Debug\RPGStore.exe.config
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\bin\Debug\RPGStore.exe
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\bin\Debug\RPGStore.pdb
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\obj\Debug\RPGStore.exe
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\obj\Debug\RPGStore.pdb
+C:\Users\fatih\OneDrive\Belgeler\Projelerim\RPGStore\RPGStore\obj\Debug\RPGStore.exe.config
