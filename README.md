@@ -8,7 +8,7 @@ A personal learning project developed to improve my OOP(Object Oriented Programm
   This project serves as a sandbox for my programming journey. It will continuously be updated as i learn new technologies:
 
 - [x] **V1 (Current):** Core mechanics using OOP principles (Classes, Interfaces, Encapsulation, Lists, Constructors).
-- [ ] **V2:** Refactoring code using LINQ and advanced C# features for better logic and search operations. There won't be any new features mostly but this version will be non-guided. So i will write all the code by myself.
+- [ ] **V2:** Refactoring code using LINQ and advanced C# features for better logic and search operations.
 - [ ] **V3:** Database integration (SQL & Entity Framework Core) to permanently store user data and item catalogs.
 - [ ] **V4:** Moving away from the console to a graphical user interface (GUI).
 - [ ] **V5:** Implementing a turn-based fighting system and potentially moving the backend to a RESTful API.
